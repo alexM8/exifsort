@@ -1,0 +1,11 @@
+.DS_Store
+CocoaDialog.app/
+tmp/
+.sorted
+nefs/
+originals/
+previews/
+slides/
+.flashdrives
+Test/
+*.flashdrives
